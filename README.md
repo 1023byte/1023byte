@@ -1,6 +1,7 @@
 <div align=center>
 
 ![1023byte](https://github-readme-stats.vercel.app/api?username=1023byte&theme=dark&show_icons=true)
+![](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula)
 
 ![Custom badge](https://img.shields.io/badge/CSS-入门-red)
 ![Custom badge](https://img.shields.io/badge/JavaScript-入门-yellow)
