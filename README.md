@@ -1,7 +1,6 @@
 <div align=center>
 
 ![1023byte](https://github-readme-stats.vercel.app/api?username=1023byte&theme=dark&show_icons=true)
-![1023byte](https://github-readme-activity-graph.vercel.app/graph?username=1023byte)
 ![Custom badge](https://img.shields.io/badge/CSS-入门-red)
 ![Custom badge](https://img.shields.io/badge/JavaScript-入门-yellow)
 ![Custom badge](https://img.shields.io/badge/VUE2-入门-brightgreen)
